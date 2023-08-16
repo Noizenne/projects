@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(135, 163, 163);
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: rgb(70, 0, 49);
+  text-decoration: none;
+}
+h1 {
+  color: rgb(236, 234, 234);
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(182, 190, 163);
+  display: flex;
+  justify-content: center;
+  border: 1px black dashed;
+  width: 50%;
+  margin: auto;
+}
